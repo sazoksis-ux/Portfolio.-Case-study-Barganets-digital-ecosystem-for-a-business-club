@@ -1,4 +1,4 @@
-# 💼 Portfolio Case study Barganets-digital ecosystem for a business club
+# 💼 Portfolio: Case study "Barganets"-digital ecosystem for a business club
 Barganets is a private digital service for business club members. It brings together networking, an event calendar, and personal project management in one place.  The product was created entirely from scratch, only the business goal: create a service for a business club with a simple and intuitive interface for interacting with club activities. 
 
 ## 1. Project overview
