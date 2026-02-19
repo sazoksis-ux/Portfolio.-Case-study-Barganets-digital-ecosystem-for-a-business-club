@@ -81,3 +81,6 @@ In product design, success is measured by the benefit to the business and the us
 *The final visual hierarchy: important items are highlighted, secondary items are in the background.*
 
 **Result:** In 1.5 months, I turned an abstract idea into a detailed system. I created not just "pictures," but a logical environment that helps club residents grow and communicate without being distracted by a struggle with the interface.
+
+---
+[← Back to Portfolio](https://github.com/sazoksis-ux)
