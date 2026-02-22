@@ -4,7 +4,7 @@ Barganets is a private digital service for business club members. It brings toge
 ## 1. Project overview
 I had to independently lay the foundation for a product that would become the primary tool for hundreds of entrepreneurs.
 
-* **My role:** UX-designer. From market research and information architecture design to creating the visual language and finalizing layouts for development.
+* **My role:** UX/UI-designer. From market research and information architecture design to creating the visual language and finalizing layouts for development.
 * **Timeline:** 1.5 months.
 
 ## 2. Research and product approach
